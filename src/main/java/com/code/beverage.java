@@ -1,2 +1,5 @@
-package Beverage;public class beverage {
+package com.code;
+
+public class beverage {
+
 }
